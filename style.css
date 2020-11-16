@@ -128,7 +128,7 @@ text-align: center;
     transform : scale(1.05,1.05)
 }
 
-@media (max-width:480px)  {
+@media (max-width:600px)  {
     .card{
         width: 80vw;
         margin-top: 25px;
